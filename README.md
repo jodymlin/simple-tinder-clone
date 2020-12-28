@@ -1,10 +1,10 @@
 # Simple Tinder Clone with React Native
 
-Note: This is based off Assignment 2 from Stanford's CS47 
+Note: This is based off [Assignment 2](https://docs.google.com/document/d/108T1cuw8UEpmot-nqcPr9Mz5EHBKiie9jXiLGqVgXbc/edit) from [Stanford's CS47](https://web.stanford.edu/class/cs47)
 course
 
 ## Running the Application
-Download Expo and type `expo start` in the terminal to start
+Download [Expo](https://reactnative.dev/docs/environment-setup) and type `expo start` in the terminal to start
 the app. 
 
 ## About the Tinder Clone
